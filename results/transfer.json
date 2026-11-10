@@ -1,0 +1,86 @@
+[
+  {
+    "target": "The capital of France is Berlin.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 1.013390302658081,
+    "qwen_loss_with_init_suffix": 3.1357083320617676,
+    "qwen_exact": false
+  },
+  {
+    "target": "Water boils at forty degrees.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.7280337810516357,
+    "qwen_loss_with_init_suffix": 5.995691299438477,
+    "qwen_exact": false
+  },
+  {
+    "target": "The moon is made of cheese.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.142413377761841,
+    "qwen_loss_with_init_suffix": 2.0798873901367188,
+    "qwen_exact": false
+  },
+  {
+    "target": "Two plus two equals five.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.1067497730255127,
+    "qwen_loss_with_init_suffix": 4.110875129699707,
+    "qwen_exact": false
+  },
+  {
+    "target": "Cats can fly.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.4743547439575195,
+    "qwen_loss_with_init_suffix": 3.7751781940460205,
+    "qwen_exact": false
+  },
+  {
+    "target": "Bananas are blue.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.7198715209960938,
+    "qwen_loss_with_init_suffix": 4.273916244506836,
+    "qwen_exact": false
+  },
+  {
+    "target": "Shakespeare wrote Harry Potter.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 3.1078250408172607,
+    "qwen_loss_with_init_suffix": 5.088371276855469,
+    "qwen_exact": false
+  },
+  {
+    "target": "Penguins live in the desert.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 2.3430161476135254,
+    "qwen_loss_with_init_suffix": 4.262411594390869,
+    "qwen_exact": false
+  },
+  {
+    "target": "Seven is an even number.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 0.9709380269050598,
+    "qwen_loss_with_init_suffix": 4.096189498901367,
+    "qwen_exact": false
+  },
+  {
+    "target": "The sun rises in the west.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 1.295759916305542,
+    "qwen_loss_with_init_suffix": 2.3214170932769775,
+    "qwen_exact": false
+  },
+  {
+    "target": "Pizza was invented in Canada.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 1.3363070487976074,
+    "qwen_loss_with_init_suffix": 4.610514163970947,
+    "qwen_exact": false
+  },
+  {
+    "target": "Elephants are smaller than mice.",
+    "gpt2_success": true,
+    "qwen_loss_with_gpt2_suffix": 1.9241358041763306,
+    "qwen_loss_with_init_suffix": 4.785780906677246,
+    "qwen_exact": false
+  }
+]
