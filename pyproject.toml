@@ -1,0 +1,21 @@
+[project]
+name = "gcg"
+version = "0.2.0"
+description = "Greedy Coordinate Gradient: gradient-guided discrete prompt optimisation, with baselines, ablations, transfer and a perplexity-filter defense"
+requires-python = ">=3.9"
+dependencies = ["torch>=2.1", "transformers>=4.44", "datasets", "numpy", "scikit-learn", "matplotlib"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.setuptools]
+packages = ["gcg"]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
